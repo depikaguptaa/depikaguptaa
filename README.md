@@ -2,7 +2,7 @@
 
 I'm a software engineer in Bengaluru, and I love building AI products that people actually use.
 
-**Right now** I'm co-founding [Papped](https://papped.co), a disposable camera for events. Guests scan a QR code and start shooting, with no app or login, and every photo lands in the host's Google Drive.
+**Right now** I'm co-founding [Papped](https://papped.co).
 
 **Before this**
 - Software engineer at Outfit Formulas, where I built the AI styling assistant
@@ -11,9 +11,11 @@ I'm a software engineer in Bengaluru, and I love building AI products that peopl
 - B.Tech in CSE (AI/ML) from AKTU, and Amazon ML Summer School 2024
 
 **A few things I've made**
-- [razorpay-woo-connector](https://github.com/depikaguptaa/razorpay-woo-connector): lets AI agents look up a WooCommerce store's orders, stock and customers
-- [SACO-AI-ASSISTANT](https://github.com/depikaguptaa/SACO-AI-ASSISTANT): give it an address, and a few agents scout the neighbourhood for you
-- [Neuro-Lift](https://github.com/depikaguptaa/Neuro-Lift): an AI health assistant
+- [Papped.co](https://papped.co): a disposable camera for events. Guests scan a QR code and shoot, with no app or login, and every photo lands in the host's Google Drive
+- [WooCommerce connector](https://github.com/depikaguptaa/razorpay-woo-connector): lets AI agents look up a store's orders, stock and customers
+- [VWisionaries](https://github.com/depikaguptaa/Volkswagen-imobilothon-VWisionaries): compare cars by just asking. Built for the Volkswagen iMobilothon, it scrapes CarDekho and CarWale into a knowledge graph
+- [Neighbourhood Scout](https://github.com/depikaguptaa/SACO-AI-ASSISTANT): give it any US address, and a few AI agents scout the amenities nearby
+- [NeuroLift](https://github.com/depikaguptaa/Neuro-Lift): an AI health assistant that reads your symptoms, points you to the right doctor, and has a gentle chatbot for tough days
 
 I mostly work in Python and TypeScript.
 
