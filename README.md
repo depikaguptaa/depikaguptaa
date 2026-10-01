@@ -2,16 +2,13 @@
 
 I'm a software engineer in Bengaluru who loves turning AI into products people actually use, and then making them fast, cheap and dependable once they're out in the world.
 
-These days I'm building [Papped](https://papped.co) with my co-founder Abhay. It's a disposable camera for any kind of event, from weddings to parties: guests scan a QR code and start shooting, with no app or login, and every photo lands in the host's Google Drive.
-You can also find it on [Peerlist](https://peerlist.io/depikagupta/project/papped-disposable-camera-for-events).
+**Right now**
+- Building [Papped](https://papped.co) with my co-founder Abhay: a disposable camera for any kind of event, from weddings to parties. Guests scan a QR code and start shooting, with no app or login, and every photo lands in the host's Google Drive ([Peerlist](https://peerlist.io/depikagupta/project/papped-disposable-camera-for-events))
 
 **Where I've been**
-
-At **Outfit Formulas** I looked after the AI styling assistant in an app used by over 300,000 people. I rebuilt it from a multi-agent setup into one simpler, steadier planner, made image generation far cheaper and faster, and set up the evals and moderation that kept it honest.
-
-At **Pine Labs** I built AI tools for merchants integrating payments: an agent that reads their code and fixes integration problems, a docs assistant that answers questions before they turn into support tickets, and an MCP server that follows up on payments for them.
-
-Before that I interned at **AppsForBB**.
+- **Outfit Formulas**, software engineer: looked after the AI styling assistant in an app used by over 300,000 people, rebuilt it into one simpler, steadier planner, made image generation far cheaper and faster, and set up the evals and moderation that kept it honest
+- **Pine Labs**, AI intern: built AI tools for merchants integrating payments, including an agent that reads their code and fixes integration problems, a docs assistant that answers questions before they turn into support tickets, and an MCP server that follows up on payments
+- **AppsForBB**, AI intern
 
 **A few things I've made**
 - [Papped.co](https://papped.co): the event camera above
@@ -20,6 +17,9 @@ Before that I interned at **AppsForBB**.
 - [Neighbourhood Scout](https://github.com/depikaguptaa/neighbourhood-scout): give it any US address, and a few AI agents scout the amenities nearby
 - [NeuroLift](https://github.com/depikaguptaa/Neuro-Lift): an AI health assistant that reads your symptoms, points you to the right doctor, and has a gentle chatbot for tough days
 
-Along the way I was picked for Amazon ML Summer School 2024, made Knight on LeetCode, and finished a B.Tech in CSE (AI/ML) at AKTU.
+**A few things I'm proud of**
+- Picked for Amazon ML Summer School 2024
+- Knight on LeetCode
+- B.Tech in CSE (AI/ML) from AKTU, 2025
 
 I mostly work in Python and TypeScript. Say hi at [depikag21@gmail.com](mailto:depikag21@gmail.com), or find me on [LinkedIn](https://www.linkedin.com/in/depika-gupta/), [X](https://x.com/depikaguptaa) and [LeetCode](https://leetcode.com/u/dekatuna/).
