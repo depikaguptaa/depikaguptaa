@@ -1,8 +1,8 @@
-# Hi, I'm Depika 👋
+# Hi, I'm Depika Gupta 👋
 
 I'm a software engineer in Bengaluru. I ship AI features to real users, and I build the systems that keep them fast, cheap and reliable: LLM backends, agents, evals and payments.
 
-**Right now** I'm co-founding [Papped](https://papped.co), now live for weddings, parties and events.
+**Right now** I'm co-founding [Papped](https://papped.co), now live for weddings, parties and events (basically any sort of events).
 
 **Before this**
 - **Outfit Formulas**, software engineer, AI and backend. I owned the AI styling assistant for an app with 300k+ users. I cut image-generation cost by 80% and latency by 60%, built the eval sets every model change had to pass, and set up AI content moderation with a human review queue.
@@ -19,7 +19,6 @@ I'm a software engineer in Bengaluru. I ship AI features to real users, and I bu
 **A few things I'm proud of**
 - Picked for Amazon ML Summer School 2024, one of the top 5k from 85k+ applicants
 - Knight on LeetCode, and in the global top 1k in a weekly contest
-- Top 33 out of 400+ teams at a national hackathon
 - B.Tech in CSE (AI/ML) from AKTU, 2025
 
 I mostly work in Python and TypeScript.
