@@ -8,7 +8,6 @@ I'm a software engineer in Bengaluru who loves turning AI into products people a
 **Where I've been**
 - **Outfit Formulas**, software engineer: looked after the AI styling assistant in an app used by over 300,000 people, rebuilt it into one simpler, steadier planner, made image generation far cheaper and faster, and set up the evals and moderation that kept it honest
 - **Pine Labs**, AI intern: built AI tools for merchants integrating payments, including an agent that reads their code and fixes integration problems, a docs assistant that answers questions before they turn into support tickets, and an MCP server that follows up on payments
-- **AppsForBB**, AI intern
 
 **A few things I've made**
 - [Papped.co](https://papped.co): the event camera above
